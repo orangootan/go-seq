@@ -6,7 +6,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/orangootan/go-seq/badge)](https://www.codefactor.io/repository/github/orangootan/go-seq)
 ![Test](https://github.com/orangootan/go-seq/actions/workflows/test.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/orangootan/go-seq/badge.svg?branch=main)](https://coveralls.io/github/orangootan/go-seq?branch=main)
-[![codecov](https://codecov.io/gh/orangootan/go-seq/branch/main/graph/badge.svg?token=EFWGDYVM0Y)](https://codecov.io/gh/orangootan/go-seq)
+[![codecov](https://codecov.io/gh/orangootan/go-seq/branch/main/graph/badge.svg?token=zSDhAPZQe2)](https://codecov.io/gh/orangootan/go-seq)
 ## go-seq
 Golang implementation of generic lazily iterated sequences.  
 Requires Go 1.18+.
